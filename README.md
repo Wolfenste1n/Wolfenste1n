@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Madiyar%20Kenzhebayev&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20Intern%20·%20Astana%2C%20Kazakhstan&descAlignY=58&descSize=15&descColor=90aab8&customColorList=0,2,2,5,30" />
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1f2e,50:252d40,100:2e3a52&height=220&section=header&text=Madiyar%20Kenzhebayev&fontSize=48&fontColor=f5d99a&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20Intern%20·%20Astana%2C%20Kazakhstan&descAlignY=58&descSize=15&descColor=8a9bb0" />
 
 ---
 
