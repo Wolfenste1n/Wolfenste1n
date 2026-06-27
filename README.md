@@ -25,6 +25,11 @@
 ![Laravel Sail](https://img.shields.io/badge/Laravel_Sail-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
+**AI Tools**
+
+![Claude Pro](https://img.shields.io/badge/Claude_Pro-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
 ---
 
 ## Key Projects
